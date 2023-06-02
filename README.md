@@ -1,22 +1,43 @@
-<h1 align="center">Olá, Eu sou Vinícius 👋</h1>
+<h1 align="center">Vinícius Costa</h1>
 
-<p align="center">
+<div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=A9FEF7&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Porque+Deus+amou+o+mundo+de+tal+maneira;que+deu+o+seu+Filho+unig%C3%AAnito%2C;+para+que+todo+aquele+que+nele+cr%C3%AA;+n%C3%A3o+pere%C3%A7a%2C+mas+tenha+a+vida+eterna.;+Jo%C3%A3o+3%3A16" alt="Typing SVG" />
     </a>
-</p>
+</div>
 
-<h3 align="left">Troféus:</h3>
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img 
-            src="https://github-profile-trophy.vercel.app/?username=viniciusccosta&row=1&theme=darkhub&rank=S,AAA,AA,A,B&no-frame=true" 
-            alt="viniciusccosta"/>
-    </a>
-</p>
+<div align="center">
+    <div style='width: fit-content;'>
+        <div align="left">
+            <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+                <img height="180em"
+                    src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusccosta&locale=pt-br&theme=radical" 
+                    alt="viniciusccosta" />
+            </a>
+            <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img height="180em"
+                    src="https://github-readme-stats.vercel.app/api?username=viniciusccosta&show_icons=true&locale=pt-br&theme=radical" 
+                    alt="viniciusccosta" />
+            </a> -->
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img height="180em"
+                    src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusccosta&show_icons=true&locale=pt-br&layout=compact&theme=radical" 
+                    alt="viniciusccosta" />
+            </a>
+        </div>
+        <div align="left">
+            <a href="https://github.com/ryo-ma/github-profile-trophy">
+                <img 
+                    src="https://github-profile-trophy.vercel.app/?username=viniciusccosta&row=1&theme=darkhub&rank=S,AAA,AA,A,B&no-frame=true" 
+                    alt="viniciusccosta"/>
+            </a>
+        </div>
+    </div>
+</div>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left">
+##
+
+<div>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
             alt="python" width="40" height="40" /> 
@@ -73,29 +94,6 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
             alt="git" width="40" height="40" /> 
     </a>
-</p>
+</div>
 
-<h3 align="left">Estastíticas:</h3>
-<p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" 
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusccosta&show_icons=true&locale=pt-br&layout=compact&theme=radical" 
-            alt="viniciusccosta" />
-
-</p> 
-<p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" 
-            src="https://github-readme-stats.vercel.app/api?username=viniciusccosta&show_icons=true&locale=pt-br&theme=radical" 
-            alt="viniciusccosta" />
-    </a>
-</p>
-<p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img align="center" 
-            src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusccosta&locale=pt-br&theme=radical" 
-            alt="viniciusccosta" />
-    </a>
-</p>
-
-<p align="right"><i><a href="https://github.com/ryo-ma/github-profile-readme-generator">Gerador de README</a></i></p>
+<div align="right"><i><a href="https://github.com/ryo-ma/github-profile-readme-generator">Gerador de README</a></i></div>
