@@ -6,6 +6,7 @@
     </a>
 </p>
 
+<h3 align="left">Troféus:</h3>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img 
@@ -74,6 +75,7 @@
     </a>
 </p>
 
+<h3 align="left">Estastíticas:</h3>
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" 
@@ -81,7 +83,6 @@
             alt="viniciusccosta" />
 
 </p> 
-
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" 
@@ -89,7 +90,6 @@
             alt="viniciusccosta" />
     </a>
 </p>
-
 <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img align="center" 
