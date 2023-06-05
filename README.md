@@ -10,15 +10,16 @@
     <div style='width: fit-content;'>
         <div align="left">
             <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-                <img height="180em"
+                <img align="center" 
+                     height="180em"
                     src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusccosta&locale=pt-br&theme=radical" 
                     alt="viniciusccosta" />
             </a>
             <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img height="180em"
+                <img align="center" 
+                     height="180em"
                     src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusccosta&locale=pt-br&layout=compact&theme=radical&hide_progress=true"
                     alt="viniciusccosta" />
-                <!-- <iframe height="180em" src="https://ionicabizau.github.io/github-profile-languages/api.html?viniciusccosta" frameborder="0"></iframe> -->
             </a>
         </div>
         <div align="left">
