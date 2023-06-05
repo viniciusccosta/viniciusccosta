@@ -14,15 +14,11 @@
                     src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusccosta&locale=pt-br&theme=radical" 
                     alt="viniciusccosta" />
             </a>
-            <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img height="180em"
-                    src="https://github-readme-stats.vercel.app/api?username=viniciusccosta&show_icons=true&locale=pt-br&theme=radical" 
-                    alt="viniciusccosta" />
-            </a> -->
             <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img height="180em"
-                    src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusccosta&show_icons=true&locale=pt-br&layout=compact&theme=radical" 
+                    src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusccosta&locale=pt-br&layout=compact&theme=radical&hide_progress=true"
                     alt="viniciusccosta" />
+                <!-- <iframe height="180em" src="https://ionicabizau.github.io/github-profile-languages/api.html?viniciusccosta" frameborder="0"></iframe> -->
             </a>
         </div>
         <div align="left">
