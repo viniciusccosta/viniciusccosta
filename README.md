@@ -6,30 +6,27 @@
     </a>
 </div>
 
-<div align="center">
-    <div style='width: fit-content;'>
-        <div align="left">
-            <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-                <img align="center" 
-                     height="180em"
-                    src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusccosta&locale=pt-br&theme=radical" 
-                    alt="viniciusccosta" />
-            </a>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img align="center" 
-                     height="180em"
-                    src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusccosta&locale=pt-br&layout=compact&theme=radical&hide_progress=true"
-                    alt="viniciusccosta" />
-            </a>
-        </div>
-        <div align="left">
-            <a href="https://github.com/ryo-ma/github-profile-trophy">
-                <img 
-                    src="https://github-profile-trophy.vercel.app/?username=viniciusccosta&row=1&theme=darkhub&rank=S,AAA,AA,A,B&no-frame=true" 
-                    alt="viniciusccosta"/>
-            </a>
-        </div>
-    </div>
+<div>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img align="center" 
+             height="180em"
+             src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusccosta&locale=pt-br&theme=radical" 
+             alt="viniciusccosta" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" 
+             height="180em"
+             src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusccosta&locale=pt-br&layout=compact&theme=radical&hide_progress=true"
+             alt="viniciusccosta" />
+    </a>
+</div>
+<div>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img
+            align="center"
+            src="https://github-profile-trophy.vercel.app/?username=viniciusccosta&row=1&theme=darkhub&rank=S,AAA,AA,A,B&no-frame=true" 
+            alt="viniciusccosta"/>
+    </a>
 </div>
 
 ##
