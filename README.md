@@ -16,6 +16,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" 
              height="180em"
+             width="400em"
              src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusccosta&locale=pt-br&layout=compact&theme=radical&hide_progress=true"
              alt="viniciusccosta" />
     </a>
