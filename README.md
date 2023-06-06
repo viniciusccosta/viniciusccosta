@@ -82,5 +82,3 @@
             alt="git" width="40" height="40" /> 
     </a>
 </div>
-
-<div align="right"><i><a href="https://github.com/ryo-ma/github-profile-readme-generator">Gerador de README</a></i></div>
