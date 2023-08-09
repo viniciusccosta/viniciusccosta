@@ -11,14 +11,14 @@
         <img align="center" 
              height="180em"
              src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusccosta&locale=pt-br&theme=radical" 
-             alt="viniciusccosta" />
+             alt="Streak-Stats de viniciusccosta" />
     </a>
 </div><br>
 <div align="center" style="background-color: blue;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img
             src="https://github-profile-trophy.vercel.app/?username=viniciusccosta&column=-1&theme=darkhub&no-frame=false&rank=S,AAA,AA,A,B" 
-            alt="viniciusccosta"/>
+            alt="Profile-Trophy de viniciusccosta"/>
     </a>
 </div>
 
