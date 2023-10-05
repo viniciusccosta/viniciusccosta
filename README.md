@@ -6,14 +6,6 @@
     </a>
 </div>
 
-<div align="center" style="background-color: white;"> 
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img align="center" 
-             height="180em"
-             src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusccosta&locale=pt-br&theme=radical" 
-             alt="Streak-Stats de viniciusccosta" />
-    </a>
-</div><br>
 <div align="center" style="background-color: blue;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img
