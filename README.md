@@ -2,7 +2,7 @@
 
 <div align="center" style="background-color: blue;">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&background=0d1117&color=A9FEF7&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Porque+Deus+amou+o+mundo+de+tal+maneira;que+deu+o+seu+Filho+unig%C3%AAnito%2C;+para+que+todo+aquele+que+nele+cr%C3%AA;+n%C3%A3o+pere%C3%A7a%2C+mas+tenha+a+vida+eterna.;+Jo%C3%A3o+3%3A16" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&background=0d1117&color=f6f8fa&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Porque+Deus+amou+o+mundo+de+tal+maneira;que+deu+o+seu+Filho+unig%C3%AAnito%2C;+para+que+todo+aquele+que+nele+cr%C3%AA;+n%C3%A3o+pere%C3%A7a%2C+mas+tenha+a+vida+eterna.;+Jo%C3%A3o+3%3A16" alt="Typing SVG" />
     </a>
 </div>
 
