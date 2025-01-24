@@ -2,13 +2,13 @@
 
 <div align="center" style="background-color: blue;">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&background=0d1117&color=f6f8fa&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Porque+Deus+amou+o+mundo+de+tal+maneira;que+deu+o+seu+Filho+unig%C3%AAnito%2C;+para+que+todo+aquele+que+nele+cr%C3%AA;+n%C3%A3o+pere%C3%A7a%2C+mas+tenha+a+vida+eterna.;+Jo%C3%A3o+3%3A16" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&background=0d111700&color=0366D6&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Porque+Deus+amou+o+mundo+de+tal+maneira;que+deu+o+seu+Filho+unig%C3%AAnito%2C;+para+que+todo+aquele+que+nele+cr%C3%AA;+n%C3%A3o+pere%C3%A7a%2C+mas+tenha+a+vida+eterna.;+Jo%C3%A3o+3%3A16" alt="Typing SVG" />
     </a>
 </div>
 
-<div align="center" style="background-color: blue;">
+<div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=viniciusccosta&column=-1&theme=darkhub&no-frame=false&rank=S,AAA,AA,A,B" alt="Profile-Trophy de viniciusccosta"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=viniciusccosta&column=-1&no-frame=true&rank=S,AAA,AA,A,B&no-bg=true" alt="Profile-Trophy de viniciusccosta"/>
     </a>
 </div>
 
