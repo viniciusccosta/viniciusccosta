@@ -6,15 +6,15 @@
     </a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=viniciusccosta&column=-1&no-frame=true&rank=S,AAA,AA,A,B&no-bg=true" alt="Profile-Trophy de viniciusccosta"/>
     </a>
-</div>
+</div> -->
 
 ##
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /></a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /></a>
@@ -22,4 +22,4 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40" /></a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="auto" height="40" /></a>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40" /></a>
-</div>
+</div> -->
